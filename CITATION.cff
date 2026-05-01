@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+title: EV Fault Code Dataset
+message: "If you use this dataset, please cite evfaultcode."
+type: dataset
+authors:
+  - name: evfaultcode
+url: https://evfaultcode.com/en/dataset/ev-fault-codes/
+repository-code: https://github.com/easyaitech/evfaultcode-dataset
+date-released: 2026-05-01
+version: "2026-05-01"
+abstract: "Reference dataset for generic OBD-II diagnostic trouble codes, EV-specific OBD-II codes, and Tesla proprietary alert codes."
