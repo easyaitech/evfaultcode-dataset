@@ -7,6 +7,6 @@ authors:
   - name: evfaultcode
 url: https://evfaultcode.com/en/dataset/ev-fault-codes/
 repository-code: https://github.com/easyaitech/evfaultcode-dataset
-date-released: 2026-05-03
-version: "2026-05-03"
+date-released: 2026-05-04
+version: "2026-05-04"
 abstract: "Reference dataset for generic OBD-II diagnostic trouble codes, EV-specific OBD-II codes, and Tesla proprietary alert codes."
