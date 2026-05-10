@@ -1,14 +1,14 @@
 {
   "name": "EV Fault Code Dataset",
   "description": "Reference dataset for generic OBD-II diagnostic trouble codes, EV-specific OBD-II codes, and Tesla proprietary alert codes.",
-  "version": "2026-05-08",
+  "version": "2026-05-10",
   "publisher": "evfaultcode",
   "homepage": "https://evfaultcode.com/en/dataset/ev-fault-codes/",
   "methodology": "https://evfaultcode.com/en/methodology/",
   "license": "https://evfaultcode.com/en/terms/",
   "citation": "evfaultcode. EV Fault Code Dataset. https://evfaultcode.com/en/dataset/ev-fault-codes/",
   "counts": {
-    "generatedAt": "2026-05-08",
+    "generatedAt": "2026-05-10",
     "obdCodeCount": 3512,
     "obdDatasetRows": 3519,
     "teslaAlertCount": 8265,
