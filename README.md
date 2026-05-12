@@ -10,7 +10,7 @@ Public machine-readable exports for [evfaultcode.com](https://evfaultcode.com), 
 - 8265 Tesla alert codes
 - 78 Tesla systems
 - Supported languages in JSON translation objects: en, de, fr, es, nl, pt, tr, no, ko, zh
-- Last generated: 2026-05-11
+- Last generated: 2026-05-12
 
 ## Downloads
 
